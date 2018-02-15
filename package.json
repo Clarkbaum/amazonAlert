@@ -1,0 +1,19 @@
+{
+  "name": "amazonalert",
+  "version": "1.0.0",
+  "description": "amazon price alert",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clarkbaum/amazonAlert.git"
+  },
+  "author": "nathan clark baumgartner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clarkbaum/amazonAlert/issues"
+  },
+  "homepage": "https://github.com/Clarkbaum/amazonAlert#readme"
+}
